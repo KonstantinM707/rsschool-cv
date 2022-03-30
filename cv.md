@@ -1,11 +1,16 @@
-## Konstantin Missyurkeyev
+# Konstantin Missyurkeyev
+
 ---
-### Contacts
+
+## Contacts
+
 * Location: Nur-Sultan(Astana), Kazakhstan
 * Phone number: +7 705 8743775
 * E-mail: KonstantinM707@yandex.ru
 * Discord: Achileus#4519 (@KonstantinM707)
+
 ---
+
 ### About Me
 
 I am an electrical technician by education.
@@ -15,16 +20,21 @@ In my next job, I was allowed to develop complex equipment myself and write code
 Also, I was interested in 3d modeling. So I started learning 3d modeling and visualization. I made some learning animations for the project called Mechanicum3D. In order to consolidate the studied material, I decided to combine the experience of modeling and programming and began to develop video games using the Unity engine. Now I want to learn how to make applications and games using web technologies.
 
 ---
+
 ### Skills
+
 * C#, Pascal(Delphi), STL
 * HTML5, CSS3
 * JavaScript Basics
 * PhotoShop, 3DSMax, Corel
+
 ---
+
 ### Code Example
 
 **Find The Parity Outlier:** *You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. Write a method that takes the array as an argument and returns this "outlier" N.*
-```
+
+```C#
 using System.Collections.Generic;
 using System.Linq;
 using System;
@@ -52,7 +62,8 @@ public class Kata
 *[1,1,2] should return 2, because it occurs 1 time (which is odd).*
 *[0,1,0,1,0] should return 0, because it occurs 3 times (which is odd).*
 *[1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).*
-```
+
+```javascript
 function findOdd(array) {
     let obj = {};
     for (let i = 0; i < array.length; i++) {
@@ -65,11 +76,18 @@ function findOdd(array) {
     return 0;
 }
 ```
+
 ---
+
 ### Courses
+
 * **Self-Learning**
+
 ---
+
 ### Languages
+
 * English - Intermediate/Upper-intermediate
 * Russian - Native
+
 ---
